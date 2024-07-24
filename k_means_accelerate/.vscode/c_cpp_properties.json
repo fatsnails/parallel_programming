@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\program\\mpi_sdk\\Include\\",
+                "D:/program/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include"
+            ],
+            "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "D:/program/mingw64_posix/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
